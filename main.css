@@ -1,0 +1,52 @@
+body{
+    background-image:url("images/best-skull-wallpapers-7.jpg");
+    font-family: 'Anton', sans-serif;
+    color: white;
+    font-size: 60px;
+    letter-spacing: 1px;
+    padding: 20px;
+}
+
+#sayHi {
+	-moz-box-shadow:inset 0px 34px 0px -15px #a20f11;
+	-webkit-box-shadow:inset 0px 34px 0px -15px #a20f11;
+	box-shadow:inset 0px 34px 0px -15px #a20f11;
+	background-color:#a20f11;
+	border:2px solid #1c160f5c;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:15px;
+	font-weight:bold;
+	padding:9px 23px;
+	text-decoration:none;
+    text-shadow:1px -1px 2px #77706f;
+    
+    letter-spacing: 2px;
+    font-family: 'Cute Font', cursive;
+    font-size: 30px;
+    border-radius: 2px; 
+}
+#sayHi:hover {
+	background-color:#a20f11;
+}
+#sayHi:active {
+	position:relative;
+	top:1px;
+}
+
+.story{
+	font-family: 'Anton', sans-serif;
+    color: white;
+    font-size: 26px;
+    letter-spacing: 1px;
+    font-weight: unset;
+    text-shadow: 2px 2px 2px #121010;
+    color: #b32123;
+    letter-spacing: 2px;
+    width: 600px;
+    padding: 20px;
+    border: 2px solid #2b1515;
+    background-color: #000000f0;
+}
